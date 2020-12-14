@@ -1,6 +1,7 @@
 # HTS Tech Team
 
 [Our website](https://HTS-Tech-Team.github.io)
+
 [Our School Website](https://www.holytrinity.w-sussex.sch.uk/)
 
 ## About Us:
