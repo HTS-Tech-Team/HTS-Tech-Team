@@ -16,7 +16,7 @@
 - Twitter: [@tech_hts](https://twitter.com/tech_hts)
 - YouTube: [HTS Tech Team](https://www.youtube.com/channel/UC23t4OU3liel2eaBAW9ON-w)
 
-#### [Podcast:](https://hts-tech-team.github.io/podcasts
+#### [Podcast:](https://hts-tech-team.github.io/podcasts)
 - [Spotify](https://open.spotify.com/show/3pWpLrGqxlafuMFpEu8hcT)
 - [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80NDJiZmNmYy9wb2RjYXN0L3Jzcw?sa=X&ved=0CAIQ9sEGahcKEwiIg6a86svtAhUAAAAAHQAAAAAQGg)
 - [Anchor.fm](https://anchor.fm/hts-tech-team/)
