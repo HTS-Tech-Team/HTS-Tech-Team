@@ -22,4 +22,4 @@
 - [Anchor.fm](https://anchor.fm/hts-tech-team/)
 
 
-## Thanks to [TechyYodaCoder](https://TechyYodaCoder.github.io) For sorting out all the Tech side of things.
+## Thanks to [@TechyYodaCoder](https://TechyYodaCoder.github.io) For sorting out all the Tech side of things.
